@@ -1,6 +1,6 @@
-baseURL = 'https://filipecarneiro.github.io/hugo-bootstrap-theme/'
+baseURL = 'https://gchen9405.github.io/unblur-landing-final'
 title = "Instant explanations, anywhere"
-author = "Filipe Carneiro"
+author = "Gordon Chen"
 copyright = "Immanuel Anaborne, Gordon Chen, Joyce Chen, Liam Kiernan"
 
 timeZone = 'Europe/London'

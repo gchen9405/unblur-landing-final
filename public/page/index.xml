@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Docs on Instant explanations, anywhere</title>
-    <link>http://localhost:1313/hugo-bootstrap-theme/page/</link>
+    <link>https://gchen9405.github.io/unblur-landing-final/page/</link>
     <description>Recent content in Docs on Instant explanations, anywhere</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>Immanuel Anaborne, Gordon Chen, Joyce Chen, Liam Kiernan</copyright>
-    <atom:link href="http://localhost:1313/hugo-bootstrap-theme/page/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://gchen9405.github.io/unblur-landing-final/page/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
