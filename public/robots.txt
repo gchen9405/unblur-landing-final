@@ -1,3 +1,2 @@
 User-agent: *
-Disallow: /404.html
-Sitemap: https://gchen9405.github.io/unblur-landing-final/sitemap.xml
+Disallow: /
